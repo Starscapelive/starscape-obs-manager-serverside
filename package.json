@@ -2,7 +2,6 @@
   "name": "starscape-obs-manager-serverside",
   "version": "0.1.3",
   "description": "serverside of starscape obs manager",
-  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,7 +23,7 @@
   "dependencies": {
     "cros": "^1.0.1",
     "express": "^4.17.1",
-    "lowdb": "^3.0.0",
+    "lowdb": "^1.0.0",
     "typescript": "^4.4.4"
   },
   "devDependencies": {
