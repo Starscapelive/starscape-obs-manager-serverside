@@ -1,0 +1,65 @@
+{
+  "id": "616f8c248189134e583542cc",
+  "name": "Multiple RTMP outputs plugin",
+  "plugin_alias": "obs-multi-rtmp",
+  "version": "2020-05-17",
+  "author": "sorayuki",
+  "downloads": 363545,
+  "views": 542177,
+  "first_release_time": 1589723365,
+  "last_update_time": 1589723365,
+  "stars": 4.24,
+  "ratings": 38,
+  "icon": "",
+  "supported_bit_version": [32, 64],
+  "source_code_url": "https://github.com/sorayuki/obs-multi-rtmp",
+  "min_obs_studio_version": "26.0.0",
+  "supported_platforms": [1, 2],
+  "tags": [],
+  "category": [],
+  "category_updated": [],
+  "link": "https://obsproject.com/forum/resources/multiple-rtmp-outputs-plugin.964/",
+  "is_recently_updated": false,
+  "resume": "a plugin to streaming to multiple RTMP servers with shared or standalone encoders",
+  "resume_updated": "a plugin to streaming to multiple RTMP servers with shared or standalone encoders",
+  "description": "<div class=\"bbWrapper\">homepage: <a class=\"link link--external\" href=\"https://sorayuki.github.io/obs-multi-rtmp/\" rel=\"nofollow noopener\" target=\"_blank\">https://sorayuki.github.io/obs-multi-rtmp/</a><br/>\n<br/>\nThis is a plugin to streaming to multiple RTMP servers concurrently.<br/>\nIt's able to share encoders with main output of OBS to save CPU power.<br/>\nIt can also use standalone encoders with basic configuration (bitrate)<br/>\n<br/>\n<br/>\n<br/>\n<div class=\"lbContainer lbContainer--inline\" data-lb-container-zoom=\"1\" data-lb-id=\"attachment56207\" data-lb-single-image=\"1\" data-lb-trigger=\".js-lbImage-attachment56207\" data-xf-init=\"lightbox\" title=\"QQ截图20200517205303.jpg\">\n<div aria-label=\"Zoom\" class=\"lbContainer-zoomer js-lbImage-attachment56207\" data-src=\"https://obsproject.com/forum/attachments/qq%E6%88%AA%E5%9B%BE20200517205303-jpg.56207/\"></div>\n<img alt=\"QQ截图20200517205303.jpg\" class=\"bbImage\" data-url=\"\" data-zoom-target=\"1\" src=\"https://obsproject.com/forum/attachments/qq%E6%88%AA%E5%9B%BE20200517205303-jpg.56207/\" style=\"\"/>\n</div></div>",
+  "description_updated": "<div class=\"bbWrapper\">homepage: <a class=\"link link--external\" href=\"https://sorayuki.github.io/obs-multi-rtmp/\" rel=\"nofollow noopener\" target=\"_blank\">https://sorayuki.github.io/obs-multi-rtmp/</a><br/>\n<br/>\nThis is a plugin to streaming to multiple RTMP servers concurrently.<br/>\nIt's able to share encoders with main output of OBS to save CPU power.<br/>\nIt can also use standalone encoders with basic configuration (bitrate)<br/>\n<br/>\n<br/>\n<br/>\n<div class=\"lbContainer lbContainer--inline\" data-lb-container-zoom=\"1\" data-lb-id=\"attachment56207\" data-lb-single-image=\"1\" data-lb-trigger=\".js-lbImage-attachment56207\" data-xf-init=\"lightbox\" title=\"QQ截图20200517205303.jpg\">\n<div aria-label=\"Zoom\" class=\"lbContainer-zoomer js-lbImage-attachment56207\" data-src=\"https://obsproject.com/forum/attachments/qq%E6%88%AA%E5%9B%BE20200517205303-jpg.56207/\"></div>\n<img alt=\"QQ截图20200517205303.jpg\" class=\"bbImage\" data-url=\"\" data-zoom-target=\"1\" src=\"https://obsproject.com/forum/attachments/qq%E6%88%AA%E5%9B%BE20200517205303-jpg.56207/\" style=\"\"/>\n</div></div>",
+  "is_hidden": false,
+  "download_links": [
+    {
+      "name": "obs-multi-rtmp-portable.zip",
+      "size": 329,
+      "link": "https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.2.7.1/obs-multi-rtmp-portable.zip",
+      "link_updated": "https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.2.7.1/obs-multi-rtmp-portable.zip",
+      "type": 1
+    },
+    {
+      "name": "obs-multi-rtmp-setup.exe",
+      "size": 291,
+      "link": "https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.2.7.1/obs-multi-rtmp-setup.exe",
+      "link_updated": "https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.2.7.1/obs-multi-rtmp-setup.exe",
+      "type": 0
+    },
+    {
+      "name": "obs-multi-rtmp_0.2.7.1.pkg",
+      "size": 181,
+      "link": "https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.2.7.1/obs-multi-rtmp_0.2.7.1.pkg",
+      "link_updated": "https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.2.7.1/obs-multi-rtmp_0.2.7.1.pkg",
+      "type": 0
+    },
+    {
+      "name": "Source code (zip)",
+      "size": 0,
+      "link": "https://github.com/sorayuki/obs-multi-rtmp/archive/refs/tags/0.2.7.1.zip",
+      "link_updated": "https://github.com/sorayuki/obs-multi-rtmp/archive/refs/tags/0.2.7.1.zip",
+      "type": 0
+    },
+    {
+      "name": "Source code (tar.gz)",
+      "size": 0,
+      "link": "https://github.com/sorayuki/obs-multi-rtmp/archive/refs/tags/0.2.7.1.tar.gz",
+      "link_updated": "https://github.com/sorayuki/obs-multi-rtmp/archive/refs/tags/0.2.7.1.tar.gz",
+      "type": 0
+    }
+  ]
+}

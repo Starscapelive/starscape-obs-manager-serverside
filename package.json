@@ -1,0 +1,34 @@
+{
+  "name": "starscape-obs-manager-serverside",
+  "version": "0.1.3",
+  "description": "serverside of starscape obs manager",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Starscapelive/starscape-obs-manager-serverside.git"
+  },
+  "keywords": [
+    "obs",
+    "plugin-manager"
+  ],
+  "author": "starscape-obs",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Starscapelive/starscape-obs-manager-serverside/issues"
+  },
+  "homepage": "https://github.com/Starscapelive/starscape-obs-manager-serverside#readme",
+  "dependencies": {
+    "cros": "^1.0.1",
+    "express": "^4.17.1",
+    "lowdb": "^3.0.0",
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "nodemon": "^2.0.15"
+  }
+}
